@@ -11,6 +11,7 @@ eg: ./server
 
 Using netcat to connect to my server can be done by entering the following
 in the commandline:
+
 netcat localhost [port number]
 
 If when starting the server, no port number was entered, use 8080, that is the
